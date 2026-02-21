@@ -22,7 +22,7 @@
 
 2. **CSS:** Keep it simple. No gradients, no flexbox, no CSS3 BS. Here's a cross-browser heading:
 ```
-<h1 style="font-size: 2em; color: #333">Don't overthink</h1>
+<h1 style="color: #333">Don't overthink</h1>
 ```
 
 3. **Images, etc:** You want to load that!?! Just... why. Here's a better idea:
