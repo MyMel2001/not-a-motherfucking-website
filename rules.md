@@ -6,7 +6,7 @@
     <style>
         .button {
             display: inline-block;
-            padding: 0.5em 1em;
+            padding: 2px 4px;
             background: #0077cc;
             color: white;
             text-decoration: none;
